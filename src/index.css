@@ -1,0 +1,7 @@
+@import "maplibre-gl/dist/maplibre-gl.css";
+
+html, body, #root {
+  margin: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
