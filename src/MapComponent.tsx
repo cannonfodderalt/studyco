@@ -19,7 +19,7 @@ const MapComponent: React.FC = () => {
       container: mapContainerRef.current,
       style:
         "https://api.maptiler.com/maps/openstreetmap/style.json?key=niKRdWmY2vN9CkvNZJMu",
-      center: [-123.246, 49.2606],
+      center: [-123.248423, 49.264235],
       zoom: 13,
     });
 
